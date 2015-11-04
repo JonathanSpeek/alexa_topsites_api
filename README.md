@@ -5,3 +5,5 @@ alternative to a batch request.
 
 `MAX` will set how many sites you want to grab.
 (ex. a MAX of 200 will grab the top 200 ranked sites for a specified country)
+
+[Alexa TopSites Documentation](https://docs.aws.amazon.com/AlexaTopSites/latest/)
